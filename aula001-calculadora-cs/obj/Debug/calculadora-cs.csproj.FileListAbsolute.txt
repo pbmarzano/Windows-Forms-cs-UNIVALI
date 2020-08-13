@@ -1,0 +1,10 @@
+C:\Users\music\Documents\Estudos\UNIVALI\Modulo 3\Programmin-and-data-persistence\VStudio\calculadora-cs\bin\Debug\calculadora-cs.exe.config
+C:\Users\music\Documents\Estudos\UNIVALI\Modulo 3\Programmin-and-data-persistence\VStudio\calculadora-cs\bin\Debug\calculadora-cs.exe
+C:\Users\music\Documents\Estudos\UNIVALI\Modulo 3\Programmin-and-data-persistence\VStudio\calculadora-cs\bin\Debug\calculadora-cs.pdb
+C:\Users\music\Documents\Estudos\UNIVALI\Modulo 3\Programmin-and-data-persistence\VStudio\calculadora-cs\obj\Debug\calculadora-cs.csprojAssemblyReference.cache
+C:\Users\music\Documents\Estudos\UNIVALI\Modulo 3\Programmin-and-data-persistence\VStudio\calculadora-cs\obj\Debug\calculadora_cs.Form1.resources
+C:\Users\music\Documents\Estudos\UNIVALI\Modulo 3\Programmin-and-data-persistence\VStudio\calculadora-cs\obj\Debug\calculadora_cs.Properties.Resources.resources
+C:\Users\music\Documents\Estudos\UNIVALI\Modulo 3\Programmin-and-data-persistence\VStudio\calculadora-cs\obj\Debug\calculadora-cs.csproj.GenerateResource.cache
+C:\Users\music\Documents\Estudos\UNIVALI\Modulo 3\Programmin-and-data-persistence\VStudio\calculadora-cs\obj\Debug\calculadora-cs.csproj.CoreCompileInputs.cache
+C:\Users\music\Documents\Estudos\UNIVALI\Modulo 3\Programmin-and-data-persistence\VStudio\calculadora-cs\obj\Debug\calculadora-cs.exe
+C:\Users\music\Documents\Estudos\UNIVALI\Modulo 3\Programmin-and-data-persistence\VStudio\calculadora-cs\obj\Debug\calculadora-cs.pdb
