@@ -1,0 +1,10 @@
+C:\Users\music\Documents\Estudos\UNIVALI\Modulo 3\Programmin-and-data-persistence\VStudio\Windows-Forms-cs-UNIVALI\aula001-conversor-moedas\bin\Debug\aula001-conversor-moedas.exe.config
+C:\Users\music\Documents\Estudos\UNIVALI\Modulo 3\Programmin-and-data-persistence\VStudio\Windows-Forms-cs-UNIVALI\aula001-conversor-moedas\bin\Debug\aula001-conversor-moedas.exe
+C:\Users\music\Documents\Estudos\UNIVALI\Modulo 3\Programmin-and-data-persistence\VStudio\Windows-Forms-cs-UNIVALI\aula001-conversor-moedas\bin\Debug\aula001-conversor-moedas.pdb
+C:\Users\music\Documents\Estudos\UNIVALI\Modulo 3\Programmin-and-data-persistence\VStudio\Windows-Forms-cs-UNIVALI\aula001-conversor-moedas\obj\Debug\aula001-conversor-moedas.csprojAssemblyReference.cache
+C:\Users\music\Documents\Estudos\UNIVALI\Modulo 3\Programmin-and-data-persistence\VStudio\Windows-Forms-cs-UNIVALI\aula001-conversor-moedas\obj\Debug\aula001_conversor_moedas.Form1.resources
+C:\Users\music\Documents\Estudos\UNIVALI\Modulo 3\Programmin-and-data-persistence\VStudio\Windows-Forms-cs-UNIVALI\aula001-conversor-moedas\obj\Debug\aula001_conversor_moedas.Properties.Resources.resources
+C:\Users\music\Documents\Estudos\UNIVALI\Modulo 3\Programmin-and-data-persistence\VStudio\Windows-Forms-cs-UNIVALI\aula001-conversor-moedas\obj\Debug\aula001-conversor-moedas.csproj.GenerateResource.cache
+C:\Users\music\Documents\Estudos\UNIVALI\Modulo 3\Programmin-and-data-persistence\VStudio\Windows-Forms-cs-UNIVALI\aula001-conversor-moedas\obj\Debug\aula001-conversor-moedas.csproj.CoreCompileInputs.cache
+C:\Users\music\Documents\Estudos\UNIVALI\Modulo 3\Programmin-and-data-persistence\VStudio\Windows-Forms-cs-UNIVALI\aula001-conversor-moedas\obj\Debug\aula001-conversor-moedas.exe
+C:\Users\music\Documents\Estudos\UNIVALI\Modulo 3\Programmin-and-data-persistence\VStudio\Windows-Forms-cs-UNIVALI\aula001-conversor-moedas\obj\Debug\aula001-conversor-moedas.pdb
