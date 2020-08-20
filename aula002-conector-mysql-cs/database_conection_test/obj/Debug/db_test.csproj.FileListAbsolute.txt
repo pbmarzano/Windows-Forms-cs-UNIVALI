@@ -1,0 +1,15 @@
+C:\Users\music\Documents\Estudos\UNIVALI\Modulo 3\Programmin-and-data-persistence\Aula02\db_test\obj\Debug\db_test.csprojAssemblyReference.cache
+C:\Users\music\Documents\Estudos\UNIVALI\Modulo 3\Programmin-and-data-persistence\Aula02\db_test\obj\Debug\db_test.Form1.resources
+C:\Users\music\Documents\Estudos\UNIVALI\Modulo 3\Programmin-and-data-persistence\Aula02\db_test\obj\Debug\db_test.Properties.Resources.resources
+C:\Users\music\Documents\Estudos\UNIVALI\Modulo 3\Programmin-and-data-persistence\Aula02\db_test\obj\Debug\db_test.csproj.GenerateResource.cache
+C:\Users\music\Documents\Estudos\UNIVALI\Modulo 3\Programmin-and-data-persistence\Aula02\db_test\obj\Debug\db_test.csproj.CoreCompileInputs.cache
+C:\Users\music\Documents\Estudos\UNIVALI\Modulo 3\Programmin-and-data-persistence\Aula02\db_test\bin\Debug\db_test.exe.config
+C:\Users\music\Documents\Estudos\UNIVALI\Modulo 3\Programmin-and-data-persistence\Aula02\db_test\bin\Debug\db_test.exe
+C:\Users\music\Documents\Estudos\UNIVALI\Modulo 3\Programmin-and-data-persistence\Aula02\db_test\bin\Debug\db_test.pdb
+C:\Users\music\Documents\Estudos\UNIVALI\Modulo 3\Programmin-and-data-persistence\Aula02\db_test\bin\Debug\MySql.Data.dll
+C:\Users\music\Documents\Estudos\UNIVALI\Modulo 3\Programmin-and-data-persistence\Aula02\db_test\bin\Debug\Google.Protobuf.dll
+C:\Users\music\Documents\Estudos\UNIVALI\Modulo 3\Programmin-and-data-persistence\Aula02\db_test\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\music\Documents\Estudos\UNIVALI\Modulo 3\Programmin-and-data-persistence\Aula02\db_test\bin\Debug\Renci.SshNet.dll
+C:\Users\music\Documents\Estudos\UNIVALI\Modulo 3\Programmin-and-data-persistence\Aula02\db_test\obj\Debug\db_test.csproj.CopyComplete
+C:\Users\music\Documents\Estudos\UNIVALI\Modulo 3\Programmin-and-data-persistence\Aula02\db_test\obj\Debug\db_test.exe
+C:\Users\music\Documents\Estudos\UNIVALI\Modulo 3\Programmin-and-data-persistence\Aula02\db_test\obj\Debug\db_test.pdb
