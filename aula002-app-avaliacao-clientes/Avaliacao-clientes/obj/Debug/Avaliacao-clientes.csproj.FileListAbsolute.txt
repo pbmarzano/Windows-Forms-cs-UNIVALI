@@ -1,0 +1,10 @@
+C:\Users\music\Documents\Estudos\UNIVALI\Modulo 3\Programmin-and-data-persistence\VStudio\Windows-Forms-cs-UNIVALI\aula002-app-avaliacao-clientes\Avaliacao-clientes\bin\Debug\Avaliacao-clientes.exe.config
+C:\Users\music\Documents\Estudos\UNIVALI\Modulo 3\Programmin-and-data-persistence\VStudio\Windows-Forms-cs-UNIVALI\aula002-app-avaliacao-clientes\Avaliacao-clientes\bin\Debug\Avaliacao-clientes.exe
+C:\Users\music\Documents\Estudos\UNIVALI\Modulo 3\Programmin-and-data-persistence\VStudio\Windows-Forms-cs-UNIVALI\aula002-app-avaliacao-clientes\Avaliacao-clientes\bin\Debug\Avaliacao-clientes.pdb
+C:\Users\music\Documents\Estudos\UNIVALI\Modulo 3\Programmin-and-data-persistence\VStudio\Windows-Forms-cs-UNIVALI\aula002-app-avaliacao-clientes\Avaliacao-clientes\obj\Debug\Avaliacao-clientes.csprojAssemblyReference.cache
+C:\Users\music\Documents\Estudos\UNIVALI\Modulo 3\Programmin-and-data-persistence\VStudio\Windows-Forms-cs-UNIVALI\aula002-app-avaliacao-clientes\Avaliacao-clientes\obj\Debug\Avaliacao_clientes.Form1.resources
+C:\Users\music\Documents\Estudos\UNIVALI\Modulo 3\Programmin-and-data-persistence\VStudio\Windows-Forms-cs-UNIVALI\aula002-app-avaliacao-clientes\Avaliacao-clientes\obj\Debug\Avaliacao_clientes.Properties.Resources.resources
+C:\Users\music\Documents\Estudos\UNIVALI\Modulo 3\Programmin-and-data-persistence\VStudio\Windows-Forms-cs-UNIVALI\aula002-app-avaliacao-clientes\Avaliacao-clientes\obj\Debug\Avaliacao-clientes.csproj.GenerateResource.cache
+C:\Users\music\Documents\Estudos\UNIVALI\Modulo 3\Programmin-and-data-persistence\VStudio\Windows-Forms-cs-UNIVALI\aula002-app-avaliacao-clientes\Avaliacao-clientes\obj\Debug\Avaliacao-clientes.csproj.CoreCompileInputs.cache
+C:\Users\music\Documents\Estudos\UNIVALI\Modulo 3\Programmin-and-data-persistence\VStudio\Windows-Forms-cs-UNIVALI\aula002-app-avaliacao-clientes\Avaliacao-clientes\obj\Debug\Avaliacao-clientes.exe
+C:\Users\music\Documents\Estudos\UNIVALI\Modulo 3\Programmin-and-data-persistence\VStudio\Windows-Forms-cs-UNIVALI\aula002-app-avaliacao-clientes\Avaliacao-clientes\obj\Debug\Avaliacao-clientes.pdb
